@@ -1,0 +1,1 @@
+# mini-guia-ng2-charts-version-2.4
